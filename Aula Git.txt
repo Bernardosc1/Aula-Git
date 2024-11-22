@@ -1,3 +1,7 @@
 Git init - Inicializa o Git 
 
+Git add - Adiciona arquivos para serem traked
 
+Git Status - Mostra os status da app
+
+Git Commit -m {message} - Identificando e registrando commit
