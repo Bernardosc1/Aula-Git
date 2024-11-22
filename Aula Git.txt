@@ -11,3 +11,4 @@ Git Commit -m {message} - Identificando e registrando commit
 Git Restore {arquivo} - Volta o código ate o ponto do ultimo commit
 
 Git log - Mostra um Log dos commits anteriores
+
