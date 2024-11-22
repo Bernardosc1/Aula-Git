@@ -1,7 +1,13 @@
 Git init - Inicializa o Git 
 
-Git add - Adiciona arquivos para serem traked
+Git add - Adiciona arquivos para serem tracked
+
+Git Branch -M {name} - Define a branch utilizada no commit
 
 Git Status - Mostra os status da app
 
 Git Commit -m {message} - Identificando e registrando commit
+
+Git Restore {arquivo} - Volta o código ate o ponto do ultimo commit
+
+Git log - Mostra um Log dos commits anteriores

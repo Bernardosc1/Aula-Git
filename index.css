@@ -4,4 +4,28 @@ body{
   display: flex; 
   flex-direction: column;
   justify-content: center; 
-  align-items: center;}
+  align-items: center;
+  background-color: skyblue;}
+
+  main{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: #fffdfd; 
+    width: 50%; 
+    height: 30%; 
+    border-radius: 20px;
+    padding: 10px;
+  }
+
+  h1{
+    color: rgb(0, 0, 0);
+  }
+  p{
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    color: #080808;
+    width: 40%;
+    text-wrap: wrap;
+  }
