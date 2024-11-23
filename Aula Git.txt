@@ -16,6 +16,8 @@ Git Checkout {id do commit} - Permite voltar em um commit passado
 
 Git Checkout main - Retorna para commit mais recente
 
-Git remote add origin {url do repositorio} - Define o caminho do repositorio remoto
+Git remote add origin {url do repositório} - Define o caminho do repositório remoto
 
 Git push -o origin {nome da branch} - Joga os commits do repositório local para o remoto
+
+Git pull - Traz as modificações do repositório remoto até o local
