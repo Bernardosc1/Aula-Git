@@ -12,3 +12,10 @@ Git Restore {arquivo} - Volta o código ate o ponto do ultimo commit
 
 Git log - Mostra um Log dos commits anteriores
 
+Git Checkout {id do commit} - Permite voltar em um commit passado
+
+Git Checkout main - Retorna para commit mais recente
+
+Git remote add origin {url do repositorio} - Define o caminho do repositorio remoto
+
+Git push -o origin {nome da branch} - Joga os commits do repositório local para o remoto
